@@ -166,7 +166,7 @@ li{
 
 <div class="gird-1container">
     <div class="one">
-      <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\rocket.svg" width="100px" height="100px"><br/>
+      <img src="CODE/CODE/images/rocket.svg" width="100px" height="100px"><br/>
       <h1>One app for all<br/>things money in<br/>your life.</h1>
       <p>pay bills,recharge,send money,buy<br/>gold,invest and shop at your<br/>favourite stores</p>
     </div>

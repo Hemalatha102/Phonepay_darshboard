@@ -160,7 +160,7 @@ li{
         <button class="we">Download</button>
    </div>
 <div class="gird-1item">
-    <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\phonepe_hero.svg" width="300px" height="300px"></div>
+    <img src="CODE/CODE/images/phonepe_hero.svg" width="300px" height="300px"></div>
 </div>
 </header>
 

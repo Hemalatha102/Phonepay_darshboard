@@ -175,7 +175,7 @@ li{
         <h1>Pay whenever<br/>you like,<br/>whenever you<br/>like.</h1>
         <p>choose from options like UPI,the<br/>phonepe wallet or your debit and<br/>credit card</p>
     </div>
-    <div class="three"><img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\switch.svg" width="100px" height="100px"><br/>
+    <div class="three"><img src="CODE/CODE/images/switch.svg" width="100px" height="100px"><br/>
     <h1>All your favourite<br/>apps on your<br/>phonepe switch.</h1>
     <p>Book fligths,order food or buy<br/>groceries.All your favourite apps<br/>without downloading. </p>
      </div>

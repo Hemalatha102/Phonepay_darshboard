@@ -188,7 +188,7 @@ li{
     <ul>
 <li><img src="CODE/CODE/images/ndtv.png" height="20px" width="80px"></li>
   <li><img src="CODE/CODE/images/forbes.png" height="20px" width="80px"></li>
-  <li><img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\newyorktimes.png" height="20px" width="80px"></li>
+  <li><img src="CODE/CODE/images/newyorktimes.png" height="20px" width="80px"></li>
   <li><img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\yourstory.png" height="20px" width="80px"></li>
 </ul>
    </div>

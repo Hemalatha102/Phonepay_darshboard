@@ -171,7 +171,7 @@ li{
       <p>pay bills,recharge,send money,buy<br/>gold,invest and shop at your<br/>favourite stores</p>
     </div>
     <div class="two">
-        <img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\money.svg" width="100px" height="100px"><br/>
+        <img src="CODE/CODE/images/money.svg" width="100px" height="100px"><br/>
         <h1>Pay whenever<br/>you like,<br/>whenever you<br/>like.</h1>
         <p>choose from options like UPI,the<br/>phonepe wallet or your debit and<br/>credit card</p>
     </div>

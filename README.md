@@ -182,7 +182,7 @@ li{
 </div>
 <div class="gird-3container">
     <div class="item9"><h2>Phonepe is the best thing that ever happenned to me.Its the best!!!</h2></div>
-    <div class="item8"><img src="c:\Users\hemalatha\OneDrive\Desktop\OneDrive\Documents\CODE[1]\CODE\CODE\images\barackobama.jpeg" height="100px" width="100px"></div><br/>
+    <div class="item8"><img src="CODE/CODE/images/barackobama.jpeg" height="100px" width="100px"></div><br/>
     <p class="toy">-Baraka Obama</p>
    <div class="item7">
     <ul>

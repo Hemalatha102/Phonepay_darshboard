@@ -146,7 +146,7 @@ li{
 <header>
  <div class="gird-container">
 <div class="item">
-<img src="" width="150px" height="100px"></div>
+<img src="CODE/CODE/images/phonepe_logo.png" width="150px" height="100px"></div>
 <div class="item1">
 <ul><li><a href="#">Home</a></li>
     <li><a href="#">Features</a></li>
